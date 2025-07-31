@@ -1,0 +1,12 @@
+Patterns requires the concept of "Nested Loops"
+
+Rules for creating a certain pattern:
+
+    1.  Outer loop is for the number of lines.
+
+    2.  Inner loop is for the content or we can say the content of the pattern 
+         and one must connect the inner loop to the outer loop somehow.
+
+    3.  Anything to be printed must be written inside the inner loop.
+
+    4.  Observer symmetry ( applicable to few patterns ).    

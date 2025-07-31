@@ -1,0 +1,25 @@
+Hashing => Pre-storing / Fetching 
+
+Let say we are given a array having "at max 12" i.e. array can have max numbers upto 12 
+Then we will create a hash array storing all :
+
+index of hash array =>    [ 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 ]
+
+hash array =>                  [ ]
+
+given array => [ 1 | 2 | 1 | 3 | 2 ]
+
+Now as I saw "1" => Tell index "1" of Hash => I have "one" -> "1"
+Next "2" => index "2" => "one" -> 2
+Next "1" => index "1" => Hey now I have "two" -> "1"
+
+Likewise we iterate through the given array and create our "HashArray" => Pre-calculation
+
+Pre-Fetching :
+HashArray =>   [ 0 | 2 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0  ]
+
+Hash Index =>  [ 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 ]
+
+Now whenever any one ask us to find like "How many 1s?" 
+Ans => We go to "HashArray => Index 1 => Fetch its Value = 2"
+Therefore there are "2" => 1s done.
