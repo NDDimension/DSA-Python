@@ -40,7 +40,8 @@ Each problem is solved in Python, with:
 | 4    | Arrays           | ✅ Done        |
 | 5    | Hashing          | ✅ Done        |
 | 6    | Linked Lists     | ✅ Done        |
-| 7    | Recursion        | 🔄 In Progress |
+| 7    | Recursion        | ✅ Done        |
+| 8    | Bit Manipulation       | 🔄 In Progress |
 | ...  | More Coming Soon | ⏳ Stay tuned  |
 
 ---
