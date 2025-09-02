@@ -41,7 +41,8 @@ Each problem is solved in Python, with:
 | 5    | Hashing          | ✅ Done        |
 | 6    | Linked Lists     | ✅ Done        |
 | 7    | Recursion        | ✅ Done        |
-| 8    | Bit Manipulation       | 🔄 In Progress |
+| 8    | Bit Manipulation | ✅ Done        |
+| 9    | Stack & Queues       | 🔄 In Progress |
 | ...  | More Coming Soon | ⏳ Stay tuned  |
 
 ---
