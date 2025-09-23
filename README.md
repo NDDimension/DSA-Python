@@ -42,7 +42,8 @@ Each problem is solved in Python, with:
 | 6    | Linked Lists     | ✅ Done        |
 | 7    | Recursion        | ✅ Done        |
 | 8    | Bit Manipulation | ✅ Done        |
-| 9    | Stack & Queues       | 🔄 In Progress |
+| 9    | Stack & Queues   | ✅ Done        |
+| 10   | Sliding Window & Two Pointer   | 🔄 In Progress |
 | ...  | More Coming Soon | ⏳ Stay tuned  |
 
 ---
