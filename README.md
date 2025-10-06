@@ -43,8 +43,11 @@ Each problem is solved in Python, with:
 | 7    | Recursion        | ✅ Done        |
 | 8    | Bit Manipulation | ✅ Done        |
 | 9    | Stack & Queues   | ✅ Done        |
-| 10   | Sliding Window & Two Pointer   | 🔄 In Progress |
+| 10   | Sliding Window & Two Pointer   | ✅ Done  |
+| 11   | Heaps   | 🔄 In Progress |
 | ...  | More Coming Soon | ⏳ Stay tuned  |
+
+
 
 ---
 
