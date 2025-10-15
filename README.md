@@ -44,7 +44,8 @@ Each problem is solved in Python, with:
 | 8    | Bit Manipulation | ✅ Done        |
 | 9    | Stack & Queues   | ✅ Done        |
 | 10   | Sliding Window & Two Pointer   | ✅ Done  |
-| 11   | Heaps   | 🔄 In Progress |
+| 11   | Heaps   | ✅ Done |
+| 12  | Greedy Algo | 🔄 In Progress  |
 | ...  | More Coming Soon | ⏳ Stay tuned  |
 
 
