@@ -45,7 +45,8 @@ Each problem is solved in Python, with:
 | 9    | Stack & Queues   | ✅ Done        |
 | 10   | Sliding Window & Two Pointer   | ✅ Done  |
 | 11   | Heaps   | ✅ Done |
-| 12  | Greedy Algo | 🔄 In Progress  |
+| 12  | Greedy Algo | ✅ Done  |
+| 13  | Binary Trees | 🔄 In Progress  |
 | ...  | More Coming Soon | ⏳ Stay tuned  |
 
 
